@@ -100,7 +100,7 @@ Backend runs on:
 
     cd project-hms-react
     npm install
-    npm start
+    npm run dev
 
 Frontend runs on:
 
